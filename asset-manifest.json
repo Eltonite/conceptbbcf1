@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Eltonite/conceptbbcf1.git/static/css/main.ed733076.css",
-    "main.js": "/Eltonite/conceptbbcf1.git/static/js/main.ce0c872a.js",
+    "main.js": "/Eltonite/conceptbbcf1.git/static/js/main.3799a0d8.js",
     "static/media/main-haku.png": "/Eltonite/conceptbbcf1.git/static/media/main-haku.10fecec2fe357e9fc24d.png",
     "static/media/main-es.png": "/Eltonite/conceptbbcf1.git/static/media/main-es.958c4bf5cb5c6b14d70d.png",
     "static/media/main-ragna.png": "/Eltonite/conceptbbcf1.git/static/media/main-ragna.75090bcad21626d6f649.png",
@@ -10,10 +10,10 @@
     "static/media/chibi-ragna.png": "/Eltonite/conceptbbcf1.git/static/media/chibi-ragna.b2e019332bc46147c1b9.png",
     "index.html": "/Eltonite/conceptbbcf1.git/index.html",
     "main.ed733076.css.map": "/Eltonite/conceptbbcf1.git/static/css/main.ed733076.css.map",
-    "main.ce0c872a.js.map": "/Eltonite/conceptbbcf1.git/static/js/main.ce0c872a.js.map"
+    "main.3799a0d8.js.map": "/Eltonite/conceptbbcf1.git/static/js/main.3799a0d8.js.map"
   },
   "entrypoints": [
     "static/css/main.ed733076.css",
-    "static/js/main.ce0c872a.js"
+    "static/js/main.3799a0d8.js"
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Eltonite/conceptbbcf1.git/static/css/main.ed733076.css",
+    "main.js": "/Eltonite/conceptbbcf1.git/static/js/main.ce0c872a.js",
+    "static/media/main-haku.png": "/Eltonite/conceptbbcf1.git/static/media/main-haku.10fecec2fe357e9fc24d.png",
+    "static/media/main-es.png": "/Eltonite/conceptbbcf1.git/static/media/main-es.958c4bf5cb5c6b14d70d.png",
+    "static/media/main-ragna.png": "/Eltonite/conceptbbcf1.git/static/media/main-ragna.75090bcad21626d6f649.png",
+    "static/media/chibi-es.png": "/Eltonite/conceptbbcf1.git/static/media/chibi-es.7eb28fe8d56e26f2fa68.png",
+    "static/media/chibi-haku.png": "/Eltonite/conceptbbcf1.git/static/media/chibi-haku.c8ac9e2a063921ce95b4.png",
+    "static/media/chibi-ragna.png": "/Eltonite/conceptbbcf1.git/static/media/chibi-ragna.b2e019332bc46147c1b9.png",
+    "index.html": "/Eltonite/conceptbbcf1.git/index.html",
+    "main.ed733076.css.map": "/Eltonite/conceptbbcf1.git/static/css/main.ed733076.css.map",
+    "main.ce0c872a.js.map": "/Eltonite/conceptbbcf1.git/static/js/main.ce0c872a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed733076.css",
+    "static/js/main.ce0c872a.js"
+  ]
+}

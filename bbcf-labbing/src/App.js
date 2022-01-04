@@ -1,5 +1,6 @@
 import Home from "./Home";
 import Navbar from "./Navbar";
+import {BrowserRouter as Router, Routes, Route, Link} from 'react-router-dom';
 
 function App() {
   return (
@@ -11,3 +12,4 @@ function App() {
 }
 
 export default App;
+

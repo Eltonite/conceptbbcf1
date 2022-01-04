@@ -1,9 +1,9 @@
-import BackHome from "./BackHome";
+import BackCharSel from "./BackCharSel";
 import mainPic from "./images/main-ragna.png"
 
 const RagnaHome = () => {
   return ( 
-    <div className="px-4 py-4">
+    <div className="px-4 py-4 flex-col bg-slate-500 h-full">
       <h1 className="text-2xl px-2 py-2 bg-slate-400 rounded-lg m-4">Ragna</h1>
 
       <img src={mainPic} alt="not available" />
@@ -24,7 +24,7 @@ const RagnaHome = () => {
         5A > 5B > 5C > 3C > 214C > 214C > 5B > 5C > 2C > jc j.C > j.D oki
       </p>
 
-      <BackHome />
+      <BackCharSel />
 
     </div>
 
